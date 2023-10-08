@@ -2,4 +2,4 @@
 - 👀 I’m interested in python, postgresql, django, javascript
 - 🌱 I’m currently learning postgresql
 - 💞️ I love vim/neovim so much
-- 📫 You could write me to my email: <smirnovcode at mail.ru>
+- 📫 You could write me to my email: \<smirnovcode at mail.ru\>
